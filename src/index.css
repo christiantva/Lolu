@@ -15,6 +15,9 @@
   --color-panel: rgba(20, 14, 48, 0.72);
 }
 
+:root {
+  color-scheme: dark;
+}
 html,
 body,
 #root {
